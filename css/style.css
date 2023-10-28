@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Ubuntu', sans-serif;  
+  background-color: #feaea7;
+  font-weight: bold;
+}
+
+.body-bg {
+  background-image: url(../images/body-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.title {
+  color: #fff;
+  margin-left: 8rem;
+  margin-top: 300px;
+  padding-top: 300px;
+}
+
+.drink {
+  font-size: 80px;
+  font-weight: 900;
+}
+
+.navbar {
+  display: flex;
+  justify-content: end;
+  top: -30px;
+}
+
+.ul{
+  list-style: none;
+  color: #fff;
+  margin-right: 4rem;
+}
+
+.ul a {
+  margin: 0 15px;
+  color: #fff;
+}
+
+.header_section .container-fluid {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.slider_section {
+  align-items: center;
+}
+
+.slider_detail {
+  color: #fefeff;
+}
+
+.slider_detail a {
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+}
+
+.slider_detail a {
+  display: inline-block;
+  padding: 9px 35px;
+  background-color: #c56e74;
+  color: #fefeff;
+  border-radius: 10px;
+}
+
+#1{
+ position: absolute;
+ z-index: 1; 
+}
+
+#2{
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  top: 0; 
+}
+
+#3{
+  position: absolute;
+  z-index: 3;
+  left: 0;
+  top: 0; 
+}
+
+#4{
+  position: absolute;
+  z-index: 4;
+  left: 0;
+  top: 0; 
+}
+
+#5{
+  position: absolute;
+  z-index: 5;
+  left: 0;
+  top: 0; 
+}
+   
+#6{
+  position: absolute;
+  z-index: 6;
+  left: 0;
+  top: 0; 
+}
+   
